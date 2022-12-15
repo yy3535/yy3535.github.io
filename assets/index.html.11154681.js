@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as r,c as n,e as s,b as e,d as c}from"./app.e4556a3b.js";const d={},i=e("h1",{id:"\u524D\u7AEF",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#\u524D\u7AEF","aria-hidden":"true"},"#"),c(" \u524D\u7AEF")],-1);function _(l,h){const a=o("QisiCat");return r(),n("div",null,[i,s(a)])}var m=t(d,[["render",_],["__file","index.html.vue"]]);export{m as default};

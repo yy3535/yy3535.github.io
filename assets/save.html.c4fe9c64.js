@@ -1,0 +1,1 @@
+const e={key:"v-436f431b",path:"/Operation/save.html",title:"\u5B89\u5168",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1629449373e3,contributors:[{name:"\u6BB7\u827A",email:"yinyi@yinyideMacBook-Air.local",commits:1}]},filePathRelative:"Operation/save.md"};export{e as data};
