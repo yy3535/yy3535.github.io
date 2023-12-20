@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t}from"./app-E-cEvfoH.js";const c={},o={class:"qisi-cat"};function a(_,i,n,r,d,p){return s(),t("div",o)}const l=e(c,[["render",a],["__scopeId","data-v-d966b25e"],["__file","QisiCat.vue"]]);export{l as default};

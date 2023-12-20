@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78ed2aa6","path":"/Frontend/elementUI.html","title":"ELEMENTUI","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"表单验证","slug":"表单验证","link":"#表单验证","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Frontend/elementUI.md"}');export{e as data};

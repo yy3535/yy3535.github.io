@@ -1,0 +1,1 @@
+import{_ as o,o as n,c as s,g as t}from"./app-E-cEvfoH.js";const r={},a={class:"underline-box"};function d(e,c,_,l,i,u){return n(),s("div",a,[t(e.$slots,"default",{},void 0,!0)])}const p=o(r,[["render",d],["__scopeId","data-v-a08e6fd6"],["__file","underline-box.vue"]]);export{p as default};

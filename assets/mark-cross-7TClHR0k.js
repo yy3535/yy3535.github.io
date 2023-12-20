@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as o}from"./app-E-cEvfoH.js";const c={},r={class:"mark-cross"};function a(t,_,n,p,d,f){return e(),o("span",r," × ")}const i=s(c,[["render",a],["__scopeId","data-v-66622de1"],["__file","mark-cross.vue"]]);export{i as default};
