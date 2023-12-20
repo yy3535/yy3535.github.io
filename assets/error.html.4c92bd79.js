@@ -1,0 +1,1 @@
+const e={key:"v-641e9f96",path:"/Frontend/error.html",title:"\u51C6\u5219",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:156324451e4,contributors:[{name:"yy3535",email:"137186247@qq.com",commits:15}]},filePathRelative:"Frontend/error.md"};export{e as data};

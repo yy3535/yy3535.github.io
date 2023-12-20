@@ -1,0 +1,1 @@
+const e={key:"v-63c6be76",path:"/Summary/aboutme.html",title:"",lang:"en-US",frontmatter:{navbar:!1,sidebar:!1,prev:!1,next:!1},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"Summary/aboutme.md"};export{e as data};

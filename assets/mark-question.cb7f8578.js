@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as s}from"./app.e4556a3b.js";const t={},a={class:"mark-question"};function o(r,c,n,p,u,i){return _(),s("span",a," ? ")}var l=e(t,[["render",o],["__scopeId","data-v-0cc12bbe"],["__file","mark-question.vue"]]);export{l as default};

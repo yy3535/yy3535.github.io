@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-436f431b","path":"/Operation/save.html","title":"安全","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1629449373000,"contributors":[{"name":"殷艺","email":"yinyi@yinyideMacBook-Air.local","commits":1}]},"filePathRelative":"Operation/save.md"}');export{e as data};

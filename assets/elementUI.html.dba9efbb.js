@@ -1,0 +1,1 @@
+const e={key:"v-78ed2aa6",path:"/Frontend/elementUI.html",title:"ELEMENTUI",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u8868\u5355\u9A8C\u8BC1",slug:"\u8868\u5355\u9A8C\u8BC1",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"Frontend/elementUI.md"};export{e as data};

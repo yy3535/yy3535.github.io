@@ -1,0 +1,1 @@
+import{_,o as t,c as o,b as c}from"./app.e4556a3b.js";const a={props:{id:{require:!0}}},r={class:"check"},s=["id"],d=["for"];function n(i,l,e,u,p,k){return t(),o("div",r,[c("input",{type:"checkbox",id:e.id},null,8,s),c("label",{for:e.id},null,8,d)])}var h=_(a,[["render",n],["__scopeId","data-v-99063c14"],["__file","mark-check.vue"]]);export{h as default};

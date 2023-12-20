@@ -1,0 +1,1 @@
+const e={key:"v-2e1ec74f",path:"/Thought/",title:"ARTS",lang:"en-US",frontmatter:{pageClass:"thought-page-class",sidebar:!1},excerpt:"",headers:[],git:{updatedTime:1629449373e3,contributors:[{name:"yy3535",email:"137186247@qq.com",commits:2},{name:"\u6BB7\u827A",email:"yinyi@yinyideMacBook-Air.local",commits:1}]},filePathRelative:"Thought/README.md"};export{e as data};
